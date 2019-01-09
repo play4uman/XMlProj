@@ -1,0 +1,7 @@
+C:\Users\Danail Nedkov\source\repos\XmlProjectUni\XmlProjectUni\bin\Debug\XmlProjectUni.exe.config
+C:\Users\Danail Nedkov\source\repos\XmlProjectUni\XmlProjectUni\bin\Debug\XmlProjectUni.exe
+C:\Users\Danail Nedkov\source\repos\XmlProjectUni\XmlProjectUni\bin\Debug\XmlProjectUni.pdb
+C:\Users\Danail Nedkov\source\repos\XmlProjectUni\XmlProjectUni\obj\Debug\XmlProjectUni.csprojAssemblyReference.cache
+C:\Users\Danail Nedkov\source\repos\XmlProjectUni\XmlProjectUni\obj\Debug\XmlProjectUni.csproj.CoreCompileInputs.cache
+C:\Users\Danail Nedkov\source\repos\XmlProjectUni\XmlProjectUni\obj\Debug\XmlProjectUni.exe
+C:\Users\Danail Nedkov\source\repos\XmlProjectUni\XmlProjectUni\obj\Debug\XmlProjectUni.pdb
